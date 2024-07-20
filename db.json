@@ -1,0 +1,42 @@
+{
+    "vehicles" : [
+    {
+        "id":1,
+        "image":"https://images.pexels.com/photos/3764986/pexels-photo-3764986.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Rolls Royce",
+        "price":100000,
+        "mileage":15000,
+        "color":"White",
+        "seats":5,
+        "fuel":"Petrol",
+        "gear":"Automatic",
+        "description":"A reliable family car"
+    },
+    
+    { 
+    "id":1,
+    "image":"https://images.pexels.com/photos/5381501/pexels-photo-5381501.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name":"BMW",
+    "price":21000,
+    "mileage":15000,
+    "color":"White",
+    "seats":5,
+    "fuel":"Petrol",
+    "gear":"Automatic",
+    "description":"A reliable family car"
+},
+        
+{
+            "id":1,
+            "image":"https://images.pexels.com/photos/1719647/pexels-photo-1719647.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Audi",
+            "price":30000,
+            "mileage":15000,
+            "color":"White",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"A reliable family car"
+    }
+]
+}
